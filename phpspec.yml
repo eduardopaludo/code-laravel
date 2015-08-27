@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: CodeLaravel
+        psr4_prefix: CodeLaravel
         src_path: app
